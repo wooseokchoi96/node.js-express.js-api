@@ -1,0 +1,24 @@
+{
+  "name": "node.js-express.js-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wooseokchoi96/node.js-express.js-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wooseokchoi96/node.js-express.js-api/issues"
+  },
+  "homepage": "https://github.com/wooseokchoi96/node.js-express.js-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1"
+  }
+}
